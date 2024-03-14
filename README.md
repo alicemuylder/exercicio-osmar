@@ -1,2 +1,2 @@
 # exercicio-osmar
-Atividades AC Osmar-  Desenvolvimento Web 
+Atividades AC Osmar-  Estrutura de Dados
